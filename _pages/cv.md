@@ -8,13 +8,13 @@ author_profile: true
 
 
 
-Education
+## Education
 ======
 * Ph.D in Information Science, Drexel University, 2026 (expected)
 * M.S. in Information Science, University of North Carolina at Chapel Hill, 2021
 * B.S. in Management Information System, Dalian University of Technology, 2019
 
-Work experience
+## Work experience
 ======
 ### NLP Research Intern
 * **Samsung Research America, Mountain View, California** (September 2025 – now)
@@ -36,7 +36,7 @@ Work experience
   * Quantized Qwen 72B VLM with GPTQ, decreasing model size by 69.65%
   * Deployed the quantized model using vLLM for inference acceleration, reducing response latency by 50–66% compared to baseline
   
-Skills
+## Skills
 ======
 
 * **Model Training**
@@ -48,7 +48,6 @@ Skills
 * **Model Deployment**
   * Docker, Kubernetes, Tensorflow Lite
   * React.js, Django, Node.js, Spring Cloud
-  * MySQL, Lucene, Solr
   * AWS EC2
 
 * **Programming Languages**
@@ -57,7 +56,7 @@ Skills
   * Shell/Scripting
   * SQL/NoSQL
 
-Service
+## Service
 ======
 
 * Reviewer for the AAAI Conference on Artificial Intelligence (AAAI), 2025
@@ -65,7 +64,7 @@ Service
 * Reviewer for the 63rd Annual Meetings of the Association for Computing Linguistics (ACL), 2025
 * Reviewer for International Conference on Computational Linguistics (COLING), 2024
 
-Academic Activities
+## Academic Activities
 ======
 
 * Oral Presentation at COLING, January 2025
@@ -74,7 +73,7 @@ Academic Activities
 * Poster Presentation at AAAS, February 2024
 * Poster Presentation at AAAI IAAI session, Washington D.C., 2023
 
-Awards & Scholarships
+## Awards & Scholarships
 ======
 
 * Phoebe W. Haas Endowed Fellowship for Women Doctoral Students, 2023
