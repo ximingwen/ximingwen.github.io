@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+
+# Ximing Wen
+*AI and NLP Researcher @ Drexel University*
+
+Welcome! I am a 5th-year Ph.D. student in Information Science, and a member of the [Tex-Base Lab](https://drexel.edu/cci/research/centers-labs/TeX-Base%20Lab/) at Drexel University. I am honored to be advised by Prof. [Rosina Weber](https://www.cs.drexel.edu/~rw37/). I received my B.S. in Management Information Systems at Dalian University of Technology in 2019 and M.S. in Information Science at University of North Carolina at Chapel Hill in 2021 (advised by Prof. [Yue (Ray) Wang](https://ils.unc.edu/~wangyue/)). 
+
+My current research interests include **Interpretable Machine Learning**, **Large Language Model Reasoning**, and **Trustworthy AI Systems**. My ongoing projects specifically focus on developing prototype-based networks that enhance model interpretability without sacrificing performance, and designing safety-aligned LLM systems through efficient reinforcement learning from human feedback. This involves integrating domain knowledge with deep learning architectures and leveraging explainable AI techniques that align with expert reasoning processes. Besides, I am also interested in fine-tuning and deploying vision-language models for real-world applications, particularly in healthcare and e-commerce domains.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
