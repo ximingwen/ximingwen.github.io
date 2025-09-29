@@ -7,8 +7,7 @@ author_profile: true
 
 
 ## 2025
-
-<u>Ximing Wen</u>, Wenjuan Tan, Rosina Weber. <span style="color: #c73e1d;">GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification.</span> Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**). [pdf]
+<u>Ximing Wen</u>, Wenjuan Tan, Rosina Weber. <span style="color: #c73e1d;">GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification.</span> Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**). [proceeding](https://dl.acm.org/doi/abs/10.1145/3411764.3445674)
 
 <u>Ximing Wen</u>. <span style="color: #c73e1d;">Language model meets prototypes: Towards interpretable text classification models through prototypical networks.</span> Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2025**). [pdf]
 
