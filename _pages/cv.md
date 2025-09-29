@@ -3,62 +3,77 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
+---
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Science, Drexel University, 2026 (expected)
+* M.S. in Information Science, University of North Carolina at Chapel Hill, 2021
+* B.S. in Management Information System, Dalian University of Technology, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### NLP Research Intern
+* **Samsung Research America, Mountain View, California** (September 2025 – now)
+  * Working on improving QA Grounding with layout information.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Applied Scientist Intern
+* **Amazon, Seattle, Washington** (June 2025 – September 2025)
+  * Designed and implemented a novel framework that generates precise product category definitions through reinforcement learning from verbal feedback, replacing costly manual definition writing
+  * Built a modular system leveraging Claude Sonnet 3.5 and Claude Haiku 3.5, including components for the actor, evaluators, self-reflection, and a memory module to store historical reflections
+  * Designed a sampling model to extract representative product examples from millions of listings, enabling scalable learning
+  * Achieved 97.5% classification accuracy (vs. 94% human-crafted definitions) while generating shorter, clearer outputs
+  * Reduced category definition creation from weeks to hours, accelerating business response to new product categories and emerging market demands
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Research Scientist Intern
+* **Ping An Technology Research Lab, Palo Alto, California** (March 2025 – June 2025)
+  * Designed and optimized both ToB and ToC medical VLM, supporting real-world deployment in general practice settings
+  * Fine-tuned 32B, 72B Qwen vision-language large models (VLMs) on 400K multi-turn medical consultation dialogues using LoRA and DeepSpeed on 8×A800 GPUs
+  * Developed a RAG (Retrieval-Augmented Generation) pipeline with a knowledge graph of rare diseases and treatments, improving diagnostic accuracy from 82% to 90% while reducing hallucinations
+  * Quantized Qwen 72B VLM with GPTQ, decreasing model size by 69.65%
+  * Deployed the quantized model using vLLM for inference acceleration, reducing response latency by 50–66% compared to baseline
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+* **Model Training**
+  * TensorFlow, PyTorch
+  * SFT, RLHF, PPO, QLoRA
+  * Distributed RPC (Data/Model Parallel)
+  * Quantization Aware Training
+
+* **Model Deployment**
+  * Docker, Kubernetes, Tensorflow Lite
+  * React.js, Django, Node.js, Spring Cloud
+  * MySQL, Lucene, Solr
+  * AWS EC2
+
+* **Programming Languages**
+  * Python (transformers, opencv, nltk, sklearn, scipy)
+  * Java, JavaScript, C, C#
+  * Shell/Scripting
+  * SQL/NoSQL
+
+Service
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* Reviewer for the AAAI Conference on Artificial Intelligence (AAAI), 2025
+* Reviewer for the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
+* Reviewer for the 63rd Annual Meetings of the Association for Computing Linguistics (ACL), 2025
+* Reviewer for International Conference on Computational Linguistics (COLING), 2024
+
+Academic Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+* Oral Presentation at COLING, January 2025
+* Oral Presentation at IJCAI XAI workshop, June 2024
+* Poster Presentation at AAAI Doctoral Consortium, February 2025
+* Poster Presentation at AAAS, February 2024
+* Poster Presentation at AAAI IAAI session, Washington D.C., 2023
+
+Awards & Scholarships
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Phoebe W. Haas Endowed Fellowship for Women Doctoral Students, 2023
+* Honorable Mention (2nd place) in Mathematical Contest in Modeling (MCM), USA, 2017
